@@ -1,3 +1,5 @@
+![Build/Deploy Status](https://github.com/Jingshuai-cloud/myob-go-test/actions/workflows/CI.yaml/badge.svg)
+
 # MYOB DevOps Technical Test
 
 The goal of this challenge is to enable you to demonstrate how you work and
@@ -46,7 +48,6 @@ These items are optional, and in _no specific order_:
 - (optional) Deploy the artefact to a cloud provider such as AWS, Heroku etc.
 
 - (optional) Add some additional tests that ensure the code is more robust.
-
 
 ## Building the binary
 
